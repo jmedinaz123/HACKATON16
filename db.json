@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "nombre": "Carlos",
+      "apellido": "Flores",
+      "email": "carlos.flores@example.com",
+      "cel": "956123458",
+      "edad": "25"
+    },
+    {
+      "id": 1,
+      "nombre": "Jose",
+      "apellido": "Claros",
+      "email": "jose.claros@example.com",
+      "cel": "951123458",
+      "edad": "24"
+    },
+    {
+      "id": 2,
+      "nombre": "Juan",
+      "apellido": "Farfán",
+      "email": "juan.farfan@example.com",
+      "cel": "987515125",
+      "edad": "28"
+    },
+    {
+      "id": 3,
+      "nombre": "Pedro",
+      "apellido": "García",
+      "email": "pedro.garcia@example.com",
+      "cel": "957125456",
+      "edad": "25"
+    },
+    {
+      "id": 4,
+      "nombre": "Pablo",
+      "apellido": "Perez",
+      "email": "pablo.perez@example.com",
+      "cel": "951456789",
+      "edad": "34"
+    }
+  ]
+}
